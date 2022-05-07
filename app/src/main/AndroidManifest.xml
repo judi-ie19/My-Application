@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StopWatch">
         <activity
+            android:name=".TransactionAcitivity"
+            android:exported="false" />
+        <activity
+            android:name=".TransactActivity"
+            android:exported="false" />
+        <activity
             android:name=".Bmicalculatoractivity"
             android:exported="false" />
         <activity
